@@ -1,0 +1,15 @@
+h1 {
+  text-align: center;
+  background-color: aquamarine;
+  color: dodgerblue;
+}
+
+label {
+  font-weight: bold;
+}
+
+
+.center-content {
+  text-align: center;
+}
+
